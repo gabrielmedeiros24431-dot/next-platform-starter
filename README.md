@@ -1,3 +1,5 @@
+![Screenshot_20251130-114442_Chrome](https://github.com/user-attachments/assets/c03a9579-0e0d-42a4-ad0f-17d563c27ec9)
+![Screenshot_20251130-114450_Chrome](https://github.com/user-attachments/assets/2be41768-2d1f-45bd-8e38-88c9a455bbfa)
 # Next.js on Netlify Platform Starter
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
